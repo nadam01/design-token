@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "Primitive Token/Light",
+    "Primitive Token/Dark",
+    "Semantic Token/Light",
+    "Semantic Token/Dark",
+    "Boolean/Mode 1",
+    "Mode/Mode 1"
+  ]
+}
