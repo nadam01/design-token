@@ -108,16 +108,6 @@
     }
   },
   "Primary": {
-    "0": {
-      "$extensions": {
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#fff2e5"
-    },
     "100": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
